@@ -1,4 +1,4 @@
 phantomjs
 =========
 
-PhantomJS binaries for Composer
+PhantomJS binaries to work with Packagist

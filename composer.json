@@ -1,0 +1,11 @@
+{
+    "name": "neuralys/phantomjs",
+    "description": "PhantomJS binaries to work with Packagist",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nicolas BELIN",
+            "email": "nico@neuralys.com"
+        }
+    ]
+}
